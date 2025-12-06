@@ -1,2 +1,4 @@
-# kodekloud-kubernetes-challenge
-This repository documents the successful completion of the intensive KodeKloud Kubernetes Challenge. This initiative was undertaken to solidify my expertise in container orchestration and achieve mastery in automated Kubernetes management. 
+<div align="center">
+  <img src="https://engineer.kodekloud.com/courser/kubernetesS.svg" alt="" width="250" />
+  <h1>Kodekloud Kubernetes Challenge</h1>
+</div>
